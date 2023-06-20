@@ -13,3 +13,6 @@ playwright.config.ts
 **/*.json
 **/*.d.ts
 eslint-relative-formatter.js
+jest.config.js
+.eslintrc.js
+jest.config.base.js
